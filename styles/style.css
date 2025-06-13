@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(234, 241, 242);
+}
+
+.container-body {
+  max-width: 80vw;
+  height: 100vh; 
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+}
+
