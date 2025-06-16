@@ -1,14 +1,20 @@
-
-body{
-    background-color: rgb(234, 241, 242);
+body {
+  background-color: rgb(12, 169, 197);
 }
 
 .container-body {
   max-width: 80vw;
-  height: 100vh; 
+  height: 100vh;
   margin: 0 auto;
   padding: 2rem;
-  background-color: white;
+  background-color: rgb(13, 77, 150);
   border-radius: 8px;
+  text-align: center;
+  box-shadow: rgb(0, 133, 249);
+  border: 0.5rem solid rgba(10, 2, 64, 0.749);
+  border-radius: 0.5rem;
 }
 
+h1 {
+  text-align: center;
+}
